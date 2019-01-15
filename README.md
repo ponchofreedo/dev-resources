@@ -11,17 +11,21 @@ I like getting these out of the way early…just so I don’t forget about them.
 
 Minimalism is cool when it comes to MacOS. Since I’m a fan of [Alfred](https://www.alfredapp.com/), I don’t really rely on the main MacOS dock that normally comes stock at the bottom of the screen.
 
-*1. Right-click and remove all stock applications (except Finder, obviously) from the dock.*
-	- Open ‘System Preferences > Dock’ and input these settings
-[image of my Dock Preferences]
-(This will left-align the bar, turn on hiding, turn on magnification, and for 10.13+ users it will also turn off ‘Show recent applications in Dock’ which pretty much nullifies removing all the applications from the dock).
+**1. Right-click and remove all stock applications (except Finder, obviously) from the dock.**
+- Open ‘System Preferences > Dock’ and input these settings
+
+![Dock Preferences](https://raw.githubusercontent.com/ponchofreedo/dev-resources/master/img/1_dock-prefs.png "Dock Preferences")
+> *This will left-align the bar, turn on hiding, turn on magnification, and for 10.13+ users it will also turn off ‘Show recent applications in Dock’ which pretty much nullifies removing all the applications from the dock.*
 
 Left-aligning and hiding opens up a lot more screen real estate and I find that having it on the left is more intuitive than being on the bottom.
 
-*2. Add Applications shortcut to dock*
+**2. Add Applications shortcut to dock**
 
 Even though we just removed everything from the dock, it’s quite useful to have a shortcut directly to Applications and Downloads in the dock. I still fall back to those from time to time.
 - Open a new Finder window
-- Hold down Option key and click/drag the *Applications* shortcut under ‘Favorites’ into the Bottom section of the dock.
-[image of the favorites section on Finder window]
-(*Note* where the small separation line is in the dock. You will drag below that, where the Trash and Downloads currently are.)
+- Hold down Option key and click/drag the **Applications** shortcut under *Favorites* into the Bottom section of the dock.
+
+![Where Applications should go in the Dock](https://raw.githubusercontent.com/ponchofreedo/dev-resources/master/img/1_applications-shortcut-location.png "Where Applications should go in the Dock")
+![Applications shortcut in Finder](https://raw.githubusercontent.com/ponchofreedo/dev-resources/master/img/1_finder-favorites.png "Applications shortcut in Finder")
+
+> *Note where the small separation line is in the dock. You will drag below that, where the Trash and Downloads currently are.*
